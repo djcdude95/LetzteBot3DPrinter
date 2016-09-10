@@ -1,4 +1,4 @@
-# LetzteBot3DPrinter
+# LetzteBot 3D Printer
 
 
 Nothing is final yet.
